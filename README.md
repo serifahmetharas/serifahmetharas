@@ -12,6 +12,8 @@ I constantly improving myself in Back-End Development since last October.
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aliturkmen4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aliturkmenn/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/serifahmetharas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/serifahmetharas//)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliturkmen4&show_icons=true)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=serifahmetharas)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=serifahmetharas&show_icons=true)  
